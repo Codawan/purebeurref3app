@@ -1,4 +1,4 @@
-# Pur Beurre's Fine Food Finder App
+# Pure Beurre's Fine Food Finder App
 
 ---
 
